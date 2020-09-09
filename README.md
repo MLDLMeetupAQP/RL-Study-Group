@@ -14,7 +14,7 @@ Nos reunimos semanalmente abarcando temas específicos, revisando el material di
 
 ## Course 1: Fundamentals of Reinforcement Learning
 
-En este curso presenta los [fundamentos de reinforcement learning]https://www.coursera.org/learn/fundamentals-of-reinforcement-learning). Aprenderemos a formalizar problemas de procesos de decisión de Markov. Comprenderemos los métodos básicos del tradeoff exploración/explotación, asi como funciones de valor. En la parte práctica aplicaremos programación dinámica para un problema de control industrial.
+En este curso presenta los [fundamentos de reinforcement learning](https://www.coursera.org/learn/fundamentals-of-reinforcement-learning). Aprenderemos a formalizar problemas de procesos de decisión de Markov. Comprenderemos los métodos básicos del tradeoff exploración/explotación, asi como funciones de valor. En la parte práctica aplicaremos programación dinámica para un problema de control industrial.
 
 ### Week 1: Introduction and the K-Armed Bandit Problem
 
