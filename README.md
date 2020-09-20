@@ -18,6 +18,15 @@ En este curso presenta los [fundamentos de reinforcement learning](https://www.c
 
 ### Week 1: Introduction and the K-Armed Bandit Problem
 
+Tema  | Slides | Video
+-----| :-: | :-: |
+Introduction and the K-armed bandit problem | [![](./imgs/icon_pdf.png)](https://drive.google.com/file/d/1KEsZjShkjg4jdpF5OJYp_6s4Lw0hRJfS/view?usp=sharing) | [![](./imgs/icon_youtube.png)](https://youtu.be/v6Pz3Fcz7ys)
+
+Assignment  | Notebook |
+------|:-:|
+Bandits and Exploration/Exploitation | [![](./imgs/icon_jupyter.png)](./Fundamentals%20of%20Reinforcement%20Learning/Week%201/Assignment1.ipynb)
+
+
 ### Week 2: Markov Decision Processes
 
 ### Week 3: Value Functions & Bellman Equations 
