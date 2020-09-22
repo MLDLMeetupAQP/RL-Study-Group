@@ -29,6 +29,16 @@ Bandits and Exploration/Exploitation | [![](./imgs/icon_jupyter.png)](./Fundamen
 
 ### Week 2: Markov Decision Processes
 
+#### Enlaces Útiles
+
+Referencia  | Enlace
+-----| :-: |
+Reinforcement Learning an Introduction - Capítulo 3| [![](./imgs/icon_pdf.png)](http://www.incompleteideas.net/book/RLbook2020.pdf) 
+Curso CS234 - Lecture 2 | [![](./imgs/icon_youtube.png)](https://youtu.be/E3f2Camj0Is)
+Curso CS221 - Lecture 7 | [![](./imgs/icon_youtube.png)](https://www.youtube.com/watch?v=9g32v7bK3Co)
+Curso de David Silver - Lecture 2 | [![](./imgs/icon_youtube.png)](https://www.youtube.com/watch?v=lfHX2hHRMVQ)
+Curso de DeepMind - Lecture 3 | [![](./imgs/icon_youtube.png)](https://www.youtube.com/watch?v=hMbxmRyDw5M)
+
 ### Week 3: Value Functions & Bellman Equations 
 
 ### Week 4: Dynamic Programming
