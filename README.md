@@ -29,6 +29,10 @@ Bandits and Exploration/Exploitation | [![](./imgs/icon_jupyter.png)](./Fundamen
 
 ### Week 2: Markov Decision Processes
 
+Tema  | Slides | Video
+-----| :-: | :-: |
+Markov Decision Processes | [![](./imgs/icon_pdf.png)](https://drive.google.com/file/d/1i2EkUitF7sKRS6SY0Hwv8CznnqOknGEP/view?usp=sharing) | [![](./imgs/icon_youtube.png)](https://www.youtube.com/watch?v=yDtiCkQdVns)
+
 #### Enlaces Útiles
 
 Referencia  | Enlace
