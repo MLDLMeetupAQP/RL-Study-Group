@@ -18,7 +18,30 @@ En este curso presenta los [fundamentos de reinforcement learning](https://www.c
 
 ### Week 1: Introduction and the K-Armed Bandit Problem
 
+Tema  | Slides | Video
+-----| :-: | :-: |
+Introduction and the K-armed bandit problem | [![](./imgs/icon_pdf.png)](https://drive.google.com/file/d/1KEsZjShkjg4jdpF5OJYp_6s4Lw0hRJfS/view?usp=sharing) | [![](./imgs/icon_youtube.png)](https://youtu.be/v6Pz3Fcz7ys)
+
+Assignment  | Notebook |
+------|:-:|
+Bandits and Exploration/Exploitation | [![](./imgs/icon_jupyter.png)](./Fundamentals%20of%20Reinforcement%20Learning/Week%201/Assignment1.ipynb)
+
+
 ### Week 2: Markov Decision Processes
+
+Tema  | Slides | Video
+-----| :-: | :-: |
+Markov Decision Processes | [![](./imgs/icon_pdf.png)](https://drive.google.com/file/d/1i2EkUitF7sKRS6SY0Hwv8CznnqOknGEP/view?usp=sharing) | [![](./imgs/icon_youtube.png)](https://www.youtube.com/watch?v=yDtiCkQdVns)
+
+#### Enlaces Útiles
+
+Referencia  | Enlace
+-----| :-: |
+Reinforcement Learning an Introduction - Capítulo 3| [![](./imgs/icon_pdf.png)](http://www.incompleteideas.net/book/RLbook2020.pdf) 
+Curso CS234 - Lecture 2 | [![](./imgs/icon_youtube.png)](https://youtu.be/E3f2Camj0Is)
+Curso CS221 - Lecture 7 | [![](./imgs/icon_youtube.png)](https://www.youtube.com/watch?v=9g32v7bK3Co)
+Curso de David Silver - Lecture 2 | [![](./imgs/icon_youtube.png)](https://www.youtube.com/watch?v=lfHX2hHRMVQ)
+Curso de DeepMind - Lecture 3 | [![](./imgs/icon_youtube.png)](https://www.youtube.com/watch?v=hMbxmRyDw5M)
 
 ### Week 3: Value Functions & Bellman Equations 
 
