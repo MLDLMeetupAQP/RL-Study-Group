@@ -45,8 +45,25 @@ Curso de DeepMind - Lecture 3 | [![](./imgs/icon_youtube.png)](https://www.youtu
 
 ### Week 3: Value Functions & Bellman Equations 
 
+Tema  | Slides | Video
+-----| :-: | :-: |
+Value Functions & Bellman Equations | [![](./imgs/icon_pdf.png)](https://drive.google.com/file/d/1QQhtARwtCtDAJnko-eO74ZJERovG-dmp/view?usp=sharing) | [![](./imgs/icon_youtube.png)](https://youtu.be/R_ugzKHM_k4)
+
 ### Week 4: Dynamic Programming
 
+Assignment  | Notebook |
+------|:-:|
+Optimal Policies with Dynamic Programming | [![](./imgs/icon_jupyter.png)](./Fundamentals%20of%20Reinforcement%20Learning/Week%204/Assignment2.ipynb)
+
+#### Enlaces Útiles
+
+Referencia  | Enlace
+-----| :-: |
+Reinforcement Learning an Introduction - Capítulo 4| [![](./imgs/icon_pdf.png)](http://www.incompleteideas.net/book/RLbook2020.pdf) 
+Curso CS234 - Lecture 2 | [![](./imgs/icon_youtube.png)](https://youtu.be/E3f2Camj0Is)
+Curso CS221 - Lecture 7 | [![](./imgs/icon_youtube.png)](https://youtu.be/9g32v7bK3Co?t=2495)
+Curso de David Silver - Lecture 3 | [![](./imgs/icon_youtube.png)](https://www.youtube.com/watch?v=Nd1-UUMVfz4)
+Curso de DeepMind - Lecture 3 | [![](./imgs/icon_youtube.png)](https://youtu.be/hMbxmRyDw5M?t=2664)
 
 ## Referencias
 
@@ -57,3 +74,4 @@ ____
 
 - Facebook: https://www.facebook.com/MLDLMeetupAQP/
 - Slack: https://bit.ly/2uoRQKS
+- Twitter: https://twitter.com/MLDLMeetupAQP
